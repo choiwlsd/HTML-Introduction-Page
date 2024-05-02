@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: floralwhite;
+    
+}
+
+h1 {
+    color: lightblue;
+}
+
+#name {
+    color: cadetblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.namep {
+    font-style: initial;
+    color: lightgray;
+}
+
+#info {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.instalink {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:deepskyblue
+}
